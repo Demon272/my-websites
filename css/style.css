@@ -1,0 +1,12 @@
+h1 {
+    color: green;
+}
+
+.top-navbar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aqua;
+    height: 40px;
+    padding-top: 20px;
+    list-style-type: none;
+}
