@@ -1,12 +1,9 @@
-h1 {
-    color: green;
-}
 
-.top-navbar {
-    display: flex;
-    justify-content: space-evenly;
-    background-color: aqua;
-    height: 40px;
-    padding-top: 20px;
-    list-style-type: none;
+.Top-lock{
+    <p style="background-image: url('image.Header Background.jpg;');">
+
+}
+  
+.box-1{
+    border-right: 5px red solid;
 }
