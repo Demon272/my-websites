@@ -17,6 +17,7 @@ html, body{
 }
 .Nav li{
     display: inline;
+   
 }
 .Nav a {
     display: inline-block;
@@ -24,7 +25,19 @@ html, body{
     color: white;
     text-decoration: none;
 }
+.Nav a:hover {
+    background-color: rgba(255, 255, 255, .3);
+}
+.Main-Nav {
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1px solid rgba(255, 255, 255, .3);
 
+}
+.Main-Nav li {
+    padding: 0 5%;
+}
 .Main-Header{
     background-color: rgba(0, 0, 0, .6);
     background-image: url("../image/Header\ Background.jpg");
